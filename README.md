@@ -7,11 +7,26 @@
 * Jakub Klimek
 
 ---
+## Aktualny Etap: Univariate Analysis Report (Exercise 8)
+**Status:** Zakończone | **Data:** 18.05.2026
+
+Wykonaliśmy kompleksową analizę jednowymiarową (Univariate Analysis) dla naszego zbioru danych. Zgodnie z wytycznymi z repozytorium (Exercise 8), wykorzystaliśmy biblioteki pandas, scipy oraz narzędzia do wizualizacji w Pythonie, aby zbadać rozkłady poszczególnych zmiennych.
+
+[-> Kliknij tutaj, aby otworzyć raport z Analizy Jednowymiarowej <-](Exercise8.ipynb)
+
+### Zawartość raportu:
+1. **Statystyki opisowe:** Wykorzystanie scipy i pandas.describe() do obliczania kluczowych metryk (miary tendencji centralnej i rozrzutu).
+2. **Miary kształtu rozkładu:** Obliczanie i interpretacja skośności (skewness) oraz kurtozy (kurtosis) dla zmiennych liczbowych.
+3. **Analiza wizualna:** Histogramy i wykresy pudełkowe (boxplot) obrazujące rozkłady danych.
+4. **Wnioski:** Identyfikacja wartości odstających (outlierów) i interpretacja kształtu danych.
+---
+## Stara część:
+
+
 
 ## O projekcie
 Projekt polega na kompleksowym przygotowaniu surowego zbioru danych o ofertach Airbnb do dalszej analizy. Skupiamy się na eliminacji błędów, konwersji typów oraz inżynierii cech, aby stworzyć wiarygodną bazę wyjściową. Czyste dane pozwolą na rzetelne badanie zjawisk rynkowych, takich jak wpływ lokalizacji na cenę czy analiza popytu na poszczególne typy zakwaterowania.
 
----
 
 ## Plan Czyszczenia Zbioru Danych
 
