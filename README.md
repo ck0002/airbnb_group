@@ -8,7 +8,7 @@
 
 ---
 ## Aktualny Etap: Univariate Analysis Report (Exercise 8)
-**Status:** Zakończone | **Data:** 18.05.2026
+**Status:** Zakończone | **Data:** 23.05.2026
 
 Wykonaliśmy kompleksową analizę jednowymiarową (Univariate Analysis) dla naszego zbioru danych. Zgodnie z wytycznymi z repozytorium (Exercise 8), wykorzystaliśmy biblioteki pandas, scipy oraz narzędzia do wizualizacji w Pythonie, aby zbadać rozkłady poszczególnych zmiennych.
 
