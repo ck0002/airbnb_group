@@ -12,7 +12,7 @@
 
 Wykonaliśmy kompleksową analizę jednowymiarową (Univariate Analysis) dla naszego zbioru danych. Zgodnie z wytycznymi z repozytorium (Exercise 8), wykorzystaliśmy biblioteki pandas, scipy oraz narzędzia do wizualizacji w Pythonie, aby zbadać rozkłady poszczególnych zmiennych.
 
-[-> Kliknij tutaj, aby otworzyć raport z Analizy Jednowymiarowej <-](Exercise8.ipynb)
+[-> Kliknij tutaj, aby otworzyć raport z Analizy Jednowymiarowej <-](Univariate_Analysis_Report.ipynb)
 
 ### Zawartość raportu:
 1. **Statystyki opisowe:** Wykorzystanie scipy i pandas.describe() do obliczania kluczowych metryk (miary tendencji centralnej i rozrzutu).
